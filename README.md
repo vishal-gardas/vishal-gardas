@@ -8,6 +8,10 @@
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
+## 📌 About Me
+- I’m Vishal Gardas, an aspiring AI/ML developer currently focused on learning and building in the field of Artificial Intelligence and Machine Learning. I enjoy exploring how intelligent systems work and applying them to real-world problems.
+
+
 ## 🧠 My Focus Areas
 - AI/ML
 
@@ -106,10 +110,6 @@
   <a href="https://x.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 <div align="center">
