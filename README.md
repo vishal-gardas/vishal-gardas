@@ -6,7 +6,8 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/banner.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/vishal-gardas/vishal-gardas/main/banner.gif" width="100%" />
+
 ## 📌 About Me
 - I’m Vishal Gardas, an aspiring AI/ML developer currently focused on learning and building in the field of Artificial Intelligence and Machine Learning. I enjoy exploring how intelligent systems work and applying them to real-world problems.
 
