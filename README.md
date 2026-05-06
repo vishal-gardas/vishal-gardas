@@ -19,10 +19,11 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
+  <a href="https://github.com/vishal-gardas">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=vishal-gardas&show_icons=true&theme=tokyonight&border_radius=10" />
+  </a>
   <img height="180px" src="https://streak-stats.demolab.com/?user=vishal-gardas&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=vishal-gardas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
@@ -32,8 +33,9 @@
 </p>
 
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D Contribution City" width="100%" />
+  <img src="https://raw.githubusercontent.com/vishal-gardas/vishal-gardas/main/profile-3d-city.svg" alt="3D Contribution City" width="100%" />
 </div>
+
 
 ## 🛠️ Languages & Tools
 
