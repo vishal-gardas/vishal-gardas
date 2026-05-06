@@ -6,8 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
-
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/banner.gif" width="100%" />
 ## 📌 About Me
 - I’m Vishal Gardas, an aspiring AI/ML developer currently focused on learning and building in the field of Artificial Intelligence and Machine Learning. I enjoy exploring how intelligent systems work and applying them to real-world problems.
 
@@ -15,8 +14,6 @@
 ## 🧠 My Focus Areas
 - AI/ML
 
-
-## 📊 GitHub Stats & Trophies
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
