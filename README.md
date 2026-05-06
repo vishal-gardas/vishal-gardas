@@ -18,8 +18,8 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-gardas&show_icons=true&theme=tokyonight&border_radius=10" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-gardas&layout=compact&theme=tokyonight&border_radius=10" height="170px"/>
+  <a href="https://github.com/vishal-gardas">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=vishal-gardas&show_icons=true&theme=tokyonight&border_radius=10" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=vishal-gardas&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="vishal-gardas's GitHub Streak" width="49%" />
 </p>
