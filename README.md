@@ -105,7 +105,7 @@
   <a href="https://x.com/Vishal_aiml">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://x.com">
+  <a href="https://vishalgardas.netlify.app">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
